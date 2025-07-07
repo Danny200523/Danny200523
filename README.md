@@ -10,7 +10,7 @@ hi, im jd 🔮.
 # 📖 reverse engineering, computer science
 ```
 ------
-[jewdev](https://github.com/jewdev)
+
 
 <p>
 <div align="center">

@@ -12,13 +12,13 @@ hi, im Danny 🔮.
 
 
 <p>
-<div style="width: 10vw; height: 10vw;" align="center">
-  <img style="width: fit-content;" src="./imgs/descarga (1).svg">
-  <img style="width: fit-content;" src="./imgs/descarga.svg">
-  <img style="width: fit-content;" src="./imgs/descarga (2).svg">
-  <img style="width: fit-content;" src="./imgs/mongodb.svg">
-  <img style="width: fit-content;" src="./imgs/sql.svg">
-  <img style="width: fit-content;" src="./imgs/python-.svg">
-  <img style="width: fit-content;" src="./imgs/github.svg">
+<div align="center">
+  <img width="200" height="400" src="./imgs/descarga (1).svg">
+  <img width="200" height="400" src="./imgs/descarga.svg">
+  <img width="200" height="400" src="./imgs/descarga (2).svg">
+  <img width="200" height="400" src="./imgs/mongodb.svg">
+  <img width="200" height="400" src="./imgs/sql.svg">
+  <img width="200" height="400" src="./imgs/python-.svg">
+  <img width="200" height="400" src="./imgs/github.svg">
 </div>
 </p>

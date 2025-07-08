@@ -15,11 +15,30 @@ hi, im Danny 🔮.
 <p>
 <div align="center">
   <img width="80" height="160" src="./imgs/descarga (1).svg">
+</div>
+
+<div align="center">
   <img width="80" height="160" src="./imgs/descarga.svg">
+</div>
+
+<div align="center">
   <img width="80" height="160" src="./imgs/descarga (2).svg">
+</div>
+
+<div align="center">
   <img width="100" height="200" src="./imgs/mongodb.svg">
+</div>
+
+<div align="center">
   <img width="80" height="160" src="./imgs/sql.svg">
+</div>
+
+<div align="center">
   <img width="80" height="160" src="./imgs/python-.svg">
+</div>
+
+<div align="center">
   <img width="80" height="160" src="./imgs/github.svg">
 </div>
+
 </p>

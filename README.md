@@ -7,7 +7,6 @@ hi, im Danny 🔮.
 + living in Bucaramanga Santader, Colombia.
 - 17 years old
 ! program engineer, web developer
-# 📖 reverse engineering
 ```
 ------
 

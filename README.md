@@ -14,6 +14,7 @@ hi, im Danny 🔮.
 
 <p>
 <div align="center">
+<div align="center">
   <img width="80" height="160" src="./imgs/descarga (1).svg">
 </div>
 
@@ -40,5 +41,5 @@ hi, im Danny 🔮.
 <div align="center">
   <img width="80" height="160" src="./imgs/github.svg">
 </div>
-
+</div>
 </p>

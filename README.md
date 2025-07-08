@@ -25,7 +25,6 @@ hi, im Danny 🔮.
 </div>
 </p>
 <h1></h1>
-<br/>
 <h1 align="center">Social Media</h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/daniel-esteban-guerrero-quintero-b16173356/" target="blank"><img align="center"

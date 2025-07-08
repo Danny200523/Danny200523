@@ -10,7 +10,7 @@ hi, im Danny 🔮.
 ! program engineer, web developer
 ```
 ------
-
+<br/><br/>
 <h1 align="center">Skills</h1>
 
 <p>

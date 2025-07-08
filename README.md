@@ -10,15 +10,16 @@ hi, im Danny 🔮.
 ```
 ------
 
+<h1>Skills</h1>
 
 <p>
-<div align="center">
-  <img width="100" height="200" src="./imgs/descarga (1).svg">
-  <img width="100" height="200" src="./imgs/descarga.svg">
-  <img width="100" height="200" src="./imgs/descarga (2).svg">
-  <img width="150" height="250" src="./imgs/mongodb.svg">
-  <img width="100" height="200" src="./imgs/sql.svg">
-  <img width="100" height="200" src="./imgs/python-.svg">
-  <img width="100" height="200" src="./imgs/github.svg">
+<div display="flex" align="center" gap="10px">
+  <img width="80" height="160" src="./imgs/descarga (1).svg">
+  <img width="80" height="160" src="./imgs/descarga.svg">
+  <img width="80" height="160" src="./imgs/descarga (2).svg">
+  <img width="100" height="200" src="./imgs/mongodb.svg">
+  <img width="80" height="160" src="./imgs/sql.svg">
+  <img width="80" height="160" src="./imgs/python-.svg">
+  <img width="80" height="160" src="./imgs/github.svg">
 </div>
 </p>

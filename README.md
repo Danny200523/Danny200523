@@ -1,3 +1,4 @@
+<h1></h1>
 <img align="left" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 
 ```diff
@@ -23,3 +24,4 @@ hi, im Danny 🔮.
   <img width="60" height="120" src="./imgs/github.svg">
 </div>
 </p>
+<h1></h1>

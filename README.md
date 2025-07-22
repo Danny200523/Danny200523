@@ -37,16 +37,13 @@ hi, im Danny 🔮.
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
       alt="adampithewan" height="60" width="80" /></a>
 </p>
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark)
-hola[![trophy](https://github-profile-trophy.vercel.app/?username=tu_usuario)](https://github.com/ryo-ma/github-profile-trophy)
-<br/><br/>
 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Daniel%20Esteban%20Guerrero%20Quintero&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=white" alt="header banner" />
 </div>
 
-<h1 align="center">👨‍💻 Atex | Full Stack Developer</h1>
+<h1 align="center">👨‍💻 Danny | Full Stack Developer</h1>
 
 <p align="center">
 </p>

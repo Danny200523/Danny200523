@@ -63,7 +63,7 @@ hola[![trophy](https://github-profile-trophy.vercel.app/?username=tu_usuario)](h
 <br />
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AtexDEPR&theme=nord&column=7&margin-w=15&margin-h=15" alt="github trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Danny200523&theme=nord&column=7&margin-w=15&margin-h=15" alt="github trophies" />
 </div>
 
 ---

@@ -38,3 +38,4 @@ hi, im Danny 🔮.
       alt="adampithewan" height="60" width="80" /></a>
 </p>
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true&theme=dark)
+hola[![trophy](https://github-profile-trophy.vercel.app/?username=tu_usuario)](https://github.com/ryo-ma/github-profile-trophy)

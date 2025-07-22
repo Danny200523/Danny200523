@@ -57,6 +57,7 @@ hola[![trophy](https://github-profile-trophy.vercel.app/?username=tu_usuario)](h
   </a>
   <a href="https://www.linkedin.com/in/daniel-esteban-guerrero-quintero-b16173356/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </div>
 

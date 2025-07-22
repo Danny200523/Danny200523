@@ -167,7 +167,7 @@ Desarrollador con enfoque Full Stack orientado a crear **experiencias digitales 
 ## 🧰 Tecnologías y Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,react,astro,tailwind,spring,django,mysql,git,vscode,figma&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,python,tailwind,mongodb,mysql,git,vscode,figma&perline=7" alt="Tech stack" />
 </div>
 
 <details>

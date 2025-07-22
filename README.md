@@ -183,6 +183,7 @@ Desarrollador con enfoque Full Stack orientado a crear **experiencias digitales 
   ### ⚙️ Backend
   <div>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+    <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MySQL" />
   </div>
   
   ### 🌐 Frontend

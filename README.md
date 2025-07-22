@@ -108,11 +108,11 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
 ## 📌 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/AtexDEPR/camello">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtexDEPR&repo=camello&theme=tokyonight" alt="Camello repo" />
+  <a href="https://github.com/Danny200523/Proyecto_Javascript_GuerreroDaniel-VargasJuan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny200523&repo=Proyecto_Javascript_GuerreroDaniel-VargasJuan&theme=tokyonight" alt="Camello repo" />
   </a>
-  <a href="https://github.com/AtexDEPR/los-ambientales">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AtexDEPR&repo=los-ambientales&theme=tokyonight" alt="Los Ambientales repo" />
+  <a href="https://github.com/Danny200523/Proyecto_HTML_S1_GuerreroDaniel-PinillarJuan">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny200523&repo=Proyecto_HTML_S1_GuerreroDaniel-PinillarJuan&theme=tokyonight" alt="Los Ambientales repo" />
   </a>
 </div>
 

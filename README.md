@@ -74,7 +74,7 @@ hola[![trophy](https://github-profile-trophy.vercel.app/?username=tu_usuario)](h
 
 ## 🧩 Sobre mí
 
-Desarrollador con enfoque Full Stack orientado a crear **experiencias digitales únicas** y **soluciones funcionales**. Me destaco por mi honestidad, capacidad de adaptación, pensamiento lógico y visión de mejora continua.
+Desarrollador Software con objetivos hacia el crecimiento profesional y personal, con experiencia en lenguajes de programación como Python, HTML, CSS, Javascript y MySQL, enfocado en el desarrollo web como desarrollador Fullstack, familiarizado con git, metodologías ágiles, trabajo en equipo y liderazgo nato, participación en proyectos con implementación de herramientas como API REST y manejo de JSON server.
 
 <details>
   <summary>📚 Mi stack principal</summary>
@@ -85,17 +85,17 @@ Desarrollador con enfoque Full Stack orientado a crear **experiencias digitales 
         <td valign="top" width="50%">
           <h3 align="center">Frontend</h3>
           <div align="center">
-            <img src="https://skillicons.dev/icons?i=react,astro,tailwind,ts,js,html,css" alt="Frontend skills" />
+            <img src="https://skillicons.dev/icons?i=tailwind,js,html,css" alt="Frontend skills" />
             <br />
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtexDEPR&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny200523&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
           </div>
         </td>
         <td valign="top" width="50%">
           <h3 align="center">Backend</h3>
           <div align="center">
-            <img src="https://skillicons.dev/icons?i=spring,django,mysql,java,python" alt="Backend skills" />
+            <img src="https://skillicons.dev/icons?i=mongodb,mysql,python" alt="Backend skills" />
             <br />
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=AtexDEPR&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=Danny200523&theme=tokyonight&hide_border=true" alt="GitHub streak" />
           </div>
         </td>
       </tr>

@@ -166,8 +166,6 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
 
 ---
 
----
-
 ## 🧠 Competencias
 
 <div align="center">

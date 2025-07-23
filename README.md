@@ -81,7 +81,7 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧠 Camello</h3>
+      <h3 align="center">🧠 F1 Simulator</h3>
       <div align="center">
         <a href="https://github.com/AtexDEPR/camello" target="_blank">
           <img src="https://via.placeholder.com/500x300?text=Camello+Platform" width="100%" alt="Camello Project"/>

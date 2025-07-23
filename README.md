@@ -86,7 +86,7 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
         <a href="https://github.com/Danny200523/F1_Simulator" target="_blank">
           <img src="https://via.placeholder.com/500x300?text=F1_Simulator" width="100%" alt="Camello Project"/>
         </a>
-        <p><strong>Plataforma web para conectar freelancers con pequeñas empresas</strong></p>
+        <p><strong>Sitio interactivo para explorar información de la F1 mediante una API pública.</strong></p>
         <p>Html, Css, Javascript, BootstrapCSS</p>
       </div>
     </td>
@@ -96,7 +96,7 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
         <a href="https://github.com/Danny200523/Kario_Media" target="_blank">
           <img src="https://via.placeholder.com/500x300?text=Kario_Media" width="100%" alt="Los Ambientales Project"/>
         </a>
-        <p><strong>Sistema para gestión de parques naturales con MySQL</strong></p>
+        <p><strong>Plataforma web para gestionar proyectos y avances de una consultora digital.</strong></p>
         <p>Bootstrap, HTML, CSS</p>
       </div>
     </td>
@@ -108,7 +108,7 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
         <a href="https://github.com/Danny200523/Campuslands_Plataforma" target="_blank">
           <img src="https://via.placeholder.com/500x300?text=Campuslands_Plataforma" width="100%" alt="Games Project"/>
         </a>
-        <p><strong>Juegos desarrollados como ejercicios de lógica</strong></p>
+        <p><strong>Plataforma educativa para gestionar cursos, usuarios y contenido de aprendizaje.</strong></p>
         <p>Python</p>
       </div>
     </td>
@@ -118,7 +118,7 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
         <a href="https://github.com/Danny200523/Gestiones_Movistar" target="_blank">
           <img src="https://via.placeholder.com/500x300?text=Gestiones_Movistar" width="100%" alt="Minetex Project"/>
         </a>
-        <p><strong>Servidor Minecraft tipo Box PvP con sistema de rangos</strong></p>
+        <p><strong>Sistema de gestión e información interna para operaciones de una empresa Movistar.</strong></p>
         <p>Python</p>
       </div>
     </td>

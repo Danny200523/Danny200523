@@ -224,8 +224,12 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00CED1&center=true&vCenter=true&width=500&lines=💬+Crear+con+prop%C3%B3sito;🌱+Aprender+con+intenci%C3%B3n;🚀+Mejorar+sin+pausa" alt="Footer typing" />
+  <img 
+    src="https://capsule-render.vercel.app/api?type=waving&color=2c5364,203a43,0f2027&height=120&section=footer" 
+    alt="Footer wave"
+  />
 </div>
+
 
 
 <div align="center">

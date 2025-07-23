@@ -166,35 +166,6 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
 
 ---
 
-## 🚀 Habilidades técnicas
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/architecture.gif" alt="Architecture" width="100" />
-        <br />
-        <p align="center">Arquitectura de software</p>
-      </td>
-      <td>
-        <img src="https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/running.gif" alt="Performance" width="100" />
-        <br />
-        <p align="center">Optimización de rendimiento</p>
-      </td>
-      <td>
-        <img src="https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/automation.gif" alt="Automation" width="100" />
-        <br />
-        <p align="center">Automatización de procesos</p>
-      </td>
-      <td>
-        <img src="https://gist.githubusercontent.com/brudnak/aba00c9a1c92d226f68e8ad8ba1e0a40/raw/e1e4a92f6072d15014f19aa8903d24a1ac0c41a4/integration.gif" alt="Integration" width="100" />
-        <br />
-        <p align="center">Integración de sistemas</p>
-      </td>
-    </tr>
-  </table>
-</div>
-
 ---
 
 ## 🧠 Competencias

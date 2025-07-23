@@ -109,7 +109,7 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
           <img src="https://via.placeholder.com/500x300?text=Campuslands_Plataforma" width="100%" alt="Games Project"/>
         </a>
         <p><strong>Juegos desarrollados como ejercicios de lógica</strong></p>
-        <p>JavaScript, HTML, CSS</p>
+        <p>Python</p>
       </div>
     </td>
     <td width="50%" valign="top">
@@ -119,7 +119,7 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
           <img src="https://via.placeholder.com/500x300?text=Gestiones_Movistar" width="100%" alt="Minetex Project"/>
         </a>
         <p><strong>Servidor Minecraft tipo Box PvP con sistema de rangos</strong></p>
-        <p>Java, Multiverse, WorldGuard, BungeeCord</p>
+        <p>Python</p>
       </div>
     </td>
   </tr>

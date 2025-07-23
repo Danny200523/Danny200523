@@ -1,7 +1,7 @@
 <div align="center">
   <img 
-    src="https://capsule-render.vercel.app/api?type=waving&color=ff0000,ff8c00,ffff00,32cd32,00ced1,1e90ff,8a2be2&height=280&section=header&text=Daniel%20Esteban%20Guerrero%20Quintero&fontSize=48&fontAlignY=40&animation=fadeIn&fontColor=ffffff&fontAlign=50&desc=Desarrollador%20Full%20Stack&descAlign=50&descSize=22&descColor=ffffff" 
-    alt="Daniel Esteban Guerrero Quintero - Banner Colorido"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=280&section=header&text=Daniel%20Esteban%20Guerrero%20Quintero&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff&fontAlign=50&desc=Desarrollador%20Full%20Stack%20|%20Apasionado%20por%20la%20tecnolog%C3%ADa&descAlign=50&descSize=20&descColor=ffffff" 
+    alt="Daniel Esteban Guerrero Quintero - Banner Profesional"
   />
 </div>
 

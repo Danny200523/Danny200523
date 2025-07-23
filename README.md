@@ -87,36 +87,36 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
           <img src="https://via.placeholder.com/500x300?text=F1_Simulator" width="100%" alt="Camello Project"/>
         </a>
         <p><strong>Plataforma web para conectar freelancers con pequeñas empresas</strong></p>
-        <p>React, Astro, Django, TailwindCSS</p>
+        <p>Html, Css, Javascript, BootstrapCSS</p>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌱 Los Ambientales</h3>
+      <h3 align="center">🌱 Kario Media</h3>
       <div align="center">
-        <a href="https://github.com/Danny200523/F1_Simulator" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=F1_Simulator" width="100%" alt="Los Ambientales Project"/>
+        <a href="https://github.com/Danny200523/Kario_Media" target="_blank">
+          <img src="https://via.placeholder.com/500x300?text=Kario_Media" width="100%" alt="Los Ambientales Project"/>
         </a>
         <p><strong>Sistema para gestión de parques naturales con MySQL</strong></p>
-        <p>MySQL, HTML, CSS</p>
+        <p>Bootstrap, HTML, CSS</p>
       </div>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🎮 Tetris y Tres en Raya</h3>
+      <h3 align="center">🎮 Campuslands Plataforma</h3>
       <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=Tetris+y+Tres+en+Raya" width="100%" alt="Games Project"/>
+        <a href="https://github.com/Danny200523/Campuslands_Plataforma" target="_blank">
+          <img src="https://via.placeholder.com/500x300?text=Campuslands_Plataforma" width="100%" alt="Games Project"/>
         </a>
         <p><strong>Juegos desarrollados como ejercicios de lógica</strong></p>
         <p>JavaScript, HTML, CSS</p>
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚔️ Minetex</h3>
+      <h3 align="center">⚔️ Gestiones Movistar</h3>
       <div align="center">
-        <a href="#" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=Minetex+Server" width="100%" alt="Minetex Project"/>
+        <a href="https://github.com/Danny200523/Gestiones_Movistar" target="_blank">
+          <img src="https://via.placeholder.com/500x300?text=Gestiones_Movistar" width="100%" alt="Minetex Project"/>
         </a>
         <p><strong>Servidor Minecraft tipo Box PvP con sistema de rangos</strong></p>
         <p>Java, Multiverse, WorldGuard, BungeeCord</p>

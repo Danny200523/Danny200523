@@ -68,10 +68,10 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
 ## 📌 Proyectos Destacados
 
 <div align="center">
-  <a href="https://github.com/Danny200523/Proyecto_Javascript_GuerreroDaniel-VargasJuan">
+  <a href="https://github.com/Danny200523/F1_Simulator">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny200523&repo=Proyecto_Javascript_GuerreroDaniel-VargasJuan&theme=tokyonight" alt="Camello repo" />
   </a>
-  <a href="https://github.com/Danny200523/Proyecto_HTML_S1_GuerreroDaniel-PinillarJuan">
+  <a href="https://github.com/Danny200523/Kario_Media">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny200523&repo=Proyecto_HTML_S1_GuerreroDaniel-PinillarJuan&theme=tokyonight" alt="Los Ambientales repo" />
   </a>
 </div>
@@ -83,8 +83,8 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
     <td width="50%" valign="top">
       <h3 align="center">🧠 F1 Simulator</h3>
       <div align="center">
-        <a href="https://github.com/AtexDEPR/camello" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=Camello+Platform" width="100%" alt="Camello Project"/>
+        <a href="https://github.com/Danny200523/F1_Simulator" target="_blank">
+          <img src="https://via.placeholder.com/500x300?text=F1_Simulator" width="100%" alt="Camello Project"/>
         </a>
         <p><strong>Plataforma web para conectar freelancers con pequeñas empresas</strong></p>
         <p>React, Astro, Django, TailwindCSS</p>
@@ -93,8 +93,8 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
     <td width="50%" valign="top">
       <h3 align="center">🌱 Los Ambientales</h3>
       <div align="center">
-        <a href="https://github.com/AtexDEPR/los-ambientales" target="_blank">
-          <img src="https://via.placeholder.com/500x300?text=Los+Ambientales" width="100%" alt="Los Ambientales Project"/>
+        <a href="https://github.com/Danny200523/F1_Simulator" target="_blank">
+          <img src="https://via.placeholder.com/500x300?text=F1_Simulator" width="100%" alt="Los Ambientales Project"/>
         </a>
         <p><strong>Sistema para gestión de parques naturales con MySQL</strong></p>
         <p>MySQL, HTML, CSS</p>

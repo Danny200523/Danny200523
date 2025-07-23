@@ -224,8 +224,9 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=00CED1&center=true&vCenter=true&width=500&lines=💬+Crear+con+prop%C3%B3sito;🌱+Aprender+con+intenci%C3%B3n;🚀+Mejorar+sin+pausa" alt="Footer typing" />
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=%F0%9F%92%AC+Crear+con+prop%C3%B3sito;%F0%9F%8C%B1+Aprender+con+intenci%C3%B3n;%F0%9F%9A%80+Mejorar+sin+pausa" alt="Footer typing" />

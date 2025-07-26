@@ -45,7 +45,7 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
         <td valign="top" width="50%">
           <h3 align="center">Frontend</h3>
           <div align="center">
-            <img src="https://skillicons.dev/icons?i=tailwind,js,html,css,jira" alt="Frontend skills" />
+            <img src="https://skillicons.dev/icons?i=tailwind,js,html,css" alt="Frontend skills" />
             <br />
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danny200523&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
           </div>
@@ -130,7 +130,7 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
 ## 🧰 Tecnologías y Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,tailwind,mongodb,mysql,git,vscode,figma&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,python,tailwind,mongodb,mysql,git,vscode,figma,jira&perline=7" alt="Tech stack" />
 </div>
 
 <details>

@@ -6,7 +6,7 @@
 </div>
 
 
-<h1 align="center">👨‍💻 Danny | Full Stack Developer</h1>
+<h1 align="center">👨‍💻 Danny | Full Stack Developer</h1><img src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
 
 <p align="center">
 </p>

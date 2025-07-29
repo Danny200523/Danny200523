@@ -3,7 +3,7 @@
     src="https://capsule-render.vercel.app/api?type=waving&color=0f2027,203a43,2c5364&height=280&section=header&text=Daniel%20Esteban%20Guerrero%20Quintero&fontSize=45&fontAlignY=35&animation=fadeIn&fontColor=ffffff&fontAlign=50&desc=Desarrollador%20Full%20Stack%20|%20Apasionado%20por%20la%20tecnolog%C3%ADa&descAlign=50&descSize=20&descColor=ffffff" 
     alt="Daniel Esteban Guerrero Quintero - Banner Profesional"
   />
-  <img width=10 src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
+  <img width=30 src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
 </div>
 
 <h1 align="center">👨‍💻 Danny | Full Stack Developer</h1>  

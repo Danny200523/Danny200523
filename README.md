@@ -5,7 +5,6 @@
   />
 </div>
 
-<img width=10 src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
 <h1 align="center">👨‍💻 Danny | Full Stack Developer</h1>  
 
 <p align="center">

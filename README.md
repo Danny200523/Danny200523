@@ -6,13 +6,12 @@
 </div>
 
 
-<h1 align="center">👨‍💻 Danny | Full Stack Developer</h1>
+<h1 align="center">👨‍💻 Danny | Full Stack Developer</h1>  <img width=10 src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
 
 <p align="center">
 </p>
 
 <div align="center">
-  <img width=10 src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif">
   <a href="mailto:dg1049291388@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-dg1049291388%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>

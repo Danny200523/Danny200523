@@ -34,7 +34,11 @@
 
 ## 🧩 Sobre mí
 
-Desarrollador Software con objetivos hacia el crecimiento profesional y personal, con experiencia en lenguajes de programación como Python, HTML, CSS, Javascript y MySQL, enfocado en el desarrollo web como desarrollador Fullstack, familiarizado con git, metodologías ágiles, trabajo en equipo y liderazgo nato, participación en proyectos con implementación de herramientas como API REST y manejo de JSON server.
+Desarrollador de Software orientado al crecimiento profesional y a la construcción de soluciones escalables. Cuento con experiencia en React, TypeScript, JavaScript, TailwindCSS, Bootstrap, MongoDB, MySQL y Python, con enfoque en el desarrollo Full Stack y la creación de aplicaciones web modernas y eficientes.
+
+Me destaco por mi capacidad para trabajar en equipo, liderazgo natural y adaptación rápida a nuevas tecnologías. Estoy familiarizado con Git, metodologías ágiles, consumo e implementación de API REST, integración de servicios externos y manejo de herramientas como JSON Server para prototipado y pruebas.
+
+Disfruto enfrentar retos técnicos, estructurar soluciones limpias y participar en proyectos donde pueda aportar tanto en la arquitectura como en la experiencia de usuario.
 
 <details>
   <summary>📚 Mi stack principal</summary>
@@ -130,7 +134,7 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
 ## 🧰 Tecnologías y Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,tailwind,mongodb,mysql,git,vscode,figma,jira&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,python,tailwind,mongodb,mysql,git,vscode,figma,jira,react,typescript,html,css,cursor,chatgpt&perline=7" alt="Tech stack" />
 </div>
 
 <details>

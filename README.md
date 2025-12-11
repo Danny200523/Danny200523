@@ -69,10 +69,10 @@ Desarrollador Software con objetivos hacia el crecimiento profesional y personal
 
 <div align="center">
   <a href="https://github.com/Danny200523/F1_Simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny200523&repo=Proyecto_Javascript_GuerreroDaniel-VargasJuan&theme=tokyonight" alt="Camello repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny200523&repo=Proyecto_Javascript_GuerreroDaniel-VargasJuan&theme=tokyonight" alt="" />
   </a>
   <a href="https://github.com/Danny200523/Kario_Media">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny200523&repo=Proyecto_HTML_S1_GuerreroDaniel-PinillarJuan&theme=tokyonight" alt="Los Ambientales repo" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Danny200523&repo=Proyecto_HTML_S1_GuerreroDaniel-PinillarJuan&theme=tokyonight" alt="" />
   </a>
 </div>
 

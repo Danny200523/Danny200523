@@ -95,13 +95,13 @@ Disfruto enfrentar retos técnicos, estructurar soluciones limpias y participar 
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌱 Kario Media</h3>
+      <h3 align="center">🌱 Proyecto Express FullStack (Backend + Frontend)</h3>
       <div align="center">
         <a href="https://github.com/Danny200523/Kario_Media" target="_blank">
           <img src="./imgs/kario.png" width="100%" alt="Los Ambientales Project"/>
         </a>
-        <p><strong>Plataforma web para gestionar proyectos y avances de una consultora digital.</strong></p>
-        <p>Bootstrap, HTML, CSS</p>
+        <p><strong>Aplicación web para gestionar tareas mediante una API REST con Express y un frontend en HTML/CSS/JS.</strong></p>
+        <p>Html, Css, Javascript, Express, NodeJS</p>
       </div>
     </td>
   </tr>
@@ -117,13 +117,13 @@ Disfruto enfrentar retos técnicos, estructurar soluciones limpias y participar 
       </div>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">⚔️ Gestiones Movistar</h3>
+      <h3 align="center">⚔️ Proyecto NodeJS (CLI)</h3>
       <div align="center">
         <a href="https://github.com/Danny200523/Gestiones_Movistar" target="_blank">
           <img src="./imgs/movistar.png" width="100%" alt="Minetex Project"/>
         </a>
-        <p><strong>Sistema de gestión e información interna para operaciones de una empresa Movistar.</strong></p>
-        <p>Python</p>
+        <p><strong>Plataforma freelance en consola para crear, actualizar y administrar notas usando Node.js y el sistema de archivos.</strong></p>
+        <p>NodeJS, Javascript, FileSystem</p>
       </div>
     </td>
   </tr>

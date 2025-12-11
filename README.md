@@ -98,7 +98,7 @@ Disfruto enfrentar retos técnicos, estructurar soluciones limpias y participar 
       <h3 align="center">🌱 Proyecto Express FullStack (Backend + Frontend)</h3>
       <div align="center">
         <a href="https://github.com/Danny200523/Kario_Media" target="_blank">
-          <img src="./imgs/kario.png" width="100%" alt="Los Ambientales Project"/>
+          <img src="./imgs/Realfilms.png" width="100%" alt="Los Ambientales Project"/>
         </a>
         <p><strong>Aplicación web para gestionar tareas mediante una API REST con Express y un frontend en HTML/CSS/JS.</strong></p>
         <p>Html, Css, Javascript, Express, NodeJS</p>
@@ -110,7 +110,7 @@ Disfruto enfrentar retos técnicos, estructurar soluciones limpias y participar 
       <h3 align="center">🎮 Campuslands Plataforma</h3>
       <div align="center">
         <a href="https://github.com/Danny200523/Campuslands_Plataforma" target="_blank">
-          <img src="./imgs/campus.png" width="100%" alt="Games Project"/>
+          <img src="./imgs/campusPP.png" width="100%" alt="Games Project"/>
         </a>
         <p><strong>Plataforma educativa para gestionar cursos, usuarios y contenido de aprendizaje.</strong></p>
         <p>Python</p>
@@ -120,7 +120,7 @@ Disfruto enfrentar retos técnicos, estructurar soluciones limpias y participar 
       <h3 align="center">⚔️ Proyecto NodeJS (CLI)</h3>
       <div align="center">
         <a href="https://github.com/Danny200523/Gestiones_Movistar" target="_blank">
-          <img src="./imgs/movistar.png" width="100%" alt="Minetex Project"/>
+          <img src="./imgs/Nodejs.png" width="100%" alt="Minetex Project"/>
         </a>
         <p><strong>Plataforma freelance en consola para crear, actualizar y administrar notas usando Node.js y el sistema de archivos.</strong></p>
         <p>NodeJS, Javascript, FileSystem</p>

@@ -134,20 +134,21 @@ Disfruto enfrentar retos técnicos, estructurar soluciones limpias y participar 
 ## 🧰 Tecnologías y Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,tailwind,mongodb,mysql,git,vscode,figma,react,typescript,html,css,notion,v0&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,python,tailwind,mongodb,mysql,git,vscode,figma,react,typescript,html,css,notion&perline=7" alt="Tech stack" />
 </div>
 
 <details>
   <summary>Ver más detalles</summary>
   <br />
   
-  ### 🧠 Lenguajes
+  ### 🧠 BackEnd
   <div>
     <img src="https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge&logo=javascript" alt="JavaScript" />
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/-Typescript-3776AB?style=for-the-badge&logo=Typescript&logoColor=white" alt="Python" />
   </div>
   
-  ### ⚙️ Backend
+  ### ⚙️ DB
   <div>
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
     <img src="https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MySQL" />

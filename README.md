@@ -134,7 +134,7 @@ Disfruto enfrentar retos técnicos, estructurar soluciones limpias y participar 
 ## 🧰 Tecnologías y Herramientas
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,tailwind,mongodb,mysql,git,vscode,figma,react,typescript,html,css,notion&perline=7" alt="Tech stack" />
+  <img src="https://skillicons.dev/icons?i=js,python,tailwind,mongodb,mysql,git,vscode,figma,react,typescript,html,css,notion,v0&perline=7" alt="Tech stack" />
 </div>
 
 <details>

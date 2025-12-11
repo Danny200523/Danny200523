@@ -143,9 +143,8 @@ Disfruto enfrentar retos técnicos, estructurar soluciones limpias y participar 
   
   ### 🧠 BackEnd
   <div>
-    <img src="https://img.shields.io/badge/-JavaScript-181717?style=for-the-badge&logo=javascript" alt="JavaScript" />
     <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-    <img src="https://img.shields.io/badge/-Typescript-3776AB?style=for-the-badge&logo=Typescript&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/-NodeJS-3776AB?style=for-the-badge&logo=NodeJS&logoColor=white" alt="Python" />
   </div>
   
   ### ⚙️ DB

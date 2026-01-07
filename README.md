@@ -12,7 +12,7 @@
 </p>
 
 <div align="center">
-  <a href="mailto:dg1049291388@gmail.com">
+  <a href="mailto:daniel.developer.js@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-dg1049291388%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/daniel-esteban-guerrero-quintero-b16173356/">
@@ -24,10 +24,6 @@
 </div>
 
 <br />
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Danny200523&theme=nord&column=7&margin-w=15&margin-h=15" alt="github trophies" />
-</div>
 
 ---
 
